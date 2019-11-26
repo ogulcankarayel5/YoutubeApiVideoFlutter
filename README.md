@@ -1,16 +1,24 @@
-# youtubeapi
+### YoutubeApiVideoFlutter
 
-Please don't remember,add your api key to utils/keys.dart as a const field.
+This project provides to fetch videos from youtube using googleapis. You should change "channel id" parameter where is "_initChannel" function in "home screen" widget to fetch video what channel do you want.
+You can find channel id in the below picture. Every channel has a channel id.
+![GitHub Logo](lib/images/Adsız.png)
+Format: ![Alt Text](url)
 
-## Getting Started
+Also don't remember,you need to add your own api key to "utils/key.dart" file.
+### Installation
 
-This project is a starting point for a Flutter application.
+- All the code required to get started
 
-A few resources to get you started if this is your first Flutter project:
+### Clone
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Clone this repo to your local machine using 	https://github.com/ogulcankarayel5/YoutubeApiVideoFlutter.git
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Setup
+
+ - Go to folder that contains flutter-crypto project and you can use this command
+ 
+ `flutter run`
+ 
+ - Remember (Install dependencies)
+
