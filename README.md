@@ -1,6 +1,6 @@
 # youtubeapi
 
-A new Flutter project.
+Please don't remember,add your api key to utils/keys.dart as a const field.
 
 ## Getting Started
 
