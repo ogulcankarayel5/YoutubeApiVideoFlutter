@@ -1,9 +1,9 @@
 ### YoutubeApiVideoFlutter
 
 This project provides to fetch videos from youtube using googleapis. You should change "channel id" parameter where is "_initChannel" function in "home screen" widget to fetch video what channel do you want.
-You can find channel id in the below picture. Every channel has a channel id.
-![GitHub Logo](lib/images/Adsız.png)
-Format: ![Alt Text](url)
+-You can find channel id in the below picture. Every channel has a channel id.
+-![GitHub Logo](lib/images/Adsız.png)
+
 
 Also don't remember,you need to add your own api key to "utils/key.dart" file.
 ### Installation
