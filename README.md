@@ -17,7 +17,7 @@ Also don't remember,you need to add your own api key to "utils/key.dart" file.
 
 ### Setup
 
- - Go to folder that contains flutter-crypto project and you can use this command
+ - Go to folder that contains youtubeapi project and you can use this command
  
  `flutter run`
  
